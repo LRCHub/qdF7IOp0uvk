@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "廃景に鉄塔、「千鶴」は田園にて待つ。",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2025-12-11T09:01:41.094833Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "廃景に鉄塔、「千鶴」は田園にて待つ。",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_廃景に鉄塔、「千鶴」は田園にて待つ。_ウォルピスカーター.txt"
+    }
+  ]
+}
